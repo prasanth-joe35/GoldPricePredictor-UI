@@ -69,3 +69,5 @@ This mini-project shows my skills in Machine Learning, API integration, and full
 📄 License
 MIT License — free to use and modify
 
+🔗 Related Project: [Gold Price Prediction (Data Science + Gradio UI)]( https://github.com/prasanth-joe35/GoldPricePredictor)
+
