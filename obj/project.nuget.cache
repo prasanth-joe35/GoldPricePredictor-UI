@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j8bEqKeuk5Fov2IJeh5hIGHU/hFk8OAaYBH4SJxfUkvEIfRwOpibcXVVu9uLqWQktCHI7gDFkECcScOXDTj7Tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91958\\FlaskAPI-GoldPricePrediction\\GoldPricePredictor-UI\\GoldPricePredictor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91958\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
