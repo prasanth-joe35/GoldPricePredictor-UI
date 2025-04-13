@@ -58,6 +58,10 @@ Run the project
 
 Runs at: https://localhost:PORT/Gold/Index
 
+### 📽 Demo
+
+![Gold Price Dashboard Demo](demo.gif)
+
 Author
 Created by [Prasanth.A]
 This mini-project shows my skills in Machine Learning, API integration, and full-stack web development.
